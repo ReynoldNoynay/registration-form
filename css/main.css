@@ -5,10 +5,9 @@ html {
 
 .content {
   background-color: #fff;
-  padding: 1em;
 }
 h1 {
-  border-bottom: .5px #000 solid;
+  border-bottom: 1px #000 solid;
 }
 
 @@media only screen and (min-width:60em) {
